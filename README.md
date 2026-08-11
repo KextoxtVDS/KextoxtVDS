@@ -8,6 +8,7 @@
 - 🎮 When I'm not coding, you'll find me playing Counter-Strike 2.
 - 📬 Reach out if you want to talk FiveM dev, scripting, or collab on a project.
 - 🎮 Discord: **my6k** — [Join my server](https://discord.gg/vM6gQbJFP)
+- 📫 Contact me directly @kextoxtkextoxt@gmail.com
 
 ## My Top Languages 🌟
 
