@@ -1,32 +1,106 @@
-# Who Am I? 🐍
+<h1 align="center">👋 Hi, I'm Kextoxt</h1>
 
-- 👋 Hi, I'm **Kextoxt**, a FiveM server developer and administrator.
-- 🖥️ Founder of **5 FiveM servers**: FusionV1, FusionV2, FusionV3, Nexium, and FantaRevo.
-- 🧑‍💻 Principal developer and co-founder of **Nexium**, alongside Zertox and Adil.
-- 🧩 I mainly work with the `ESX/AVA` framework and the `ox` ecosystem — `ox_lib`, `ox_inventory`, `ox_target`, `oxmysql`, `pma-voice`.
-- 🛠️ I build custom NUI menus, HUDs, banking systems, dispatch systems, and I debug/migrate/audit resources that are broken or outdated.
-- 🎮 When I'm not coding, you'll find me playing Counter-Strike 2.
-- 📬 Reach out if you want to talk FiveM dev, scripting, or collab on a project.
-- 🎮 Discord: **my6k** — [Join my server](https://discord.gg/vM6gQbJFP)
-- 📫 Contact me directly @kextoxtkextoxt@gmail.com
-
-## My Top Languages 🌟
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kextoxt-byberus&layout=compact&theme=tokyonight&hide_border=true)
-
-## Other Technologies 🔧
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" height="40" alt="Lua"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+<p align="center">
+  <strong>Développeur Full-Stack • Web • Open-Source</strong>
 </p>
 
-## GitHub Status 🏆
+<p align="center">
+  <img src="https://img.shields.io/github/followers/kextoxt-byberus?label=Followers&color=181717&style=for-the-badge&logo=github" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=kextoxt-byberus&label=Profile%20Views&color=181717&style=for-the-badge" alt="Profile views" />
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kextoxt-byberus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white">
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@your-wakatime-id">
+    <img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="WakaTime" />
+  </a>
+</p>
+
+---
+
+## 🧠 Who Am I
+
+<p align="center">
+  Founder of <strong>6 FiveM servers</strong> — FusionV1, FusionV2, FusionV3, Nexium, FantaRevo & Zyphor 
+</p>
+
+<p align="center">
+  Principal developer and co-founder of <strong>Fusion V3</strong>, alongside Zertox and Adil.
+</p>
+
+<p align="center">
+  I mainly work with <code>ESX/AVA/QB-Core</code> and the <code>ox</code> ecosystem — NUI menus, RageUI style Flashback, HUDs, banking & dispatch systems.
+</p>
+
+<p align="center">
+  When I'm not coding, you'll find me on Counter-Strike 2. 🎮
+</p>
+
+---
+
+## 🛠️ Compétences Techniques
+
+<h4 align="center">🎨 Front-End</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=flat&logo=bootstrap&logoColor=white">
+</p>
+
+<h4 align="center">⚙️ Back-End</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Discord.js-7289DA?style=flat&logo=discord&logoColor=white">
+</p>
+
+<h4 align="center">🗄️ Données & Infra</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white">
+  <img src="https://img.shields.io/badge/OVH-123F6D?style=flat&logo=ovh&logoColor=white">
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kextoxt-byberus&show_icons=true&count_private=true&rank_icon=github&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333" alt="Kextoxt Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kextoxt-byberus&layout=compact&langs_count=10&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333" alt="Top languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kextoxt-byberus&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&border=333333" alt="Streak Stats" />
+</div>
+
+---
+
+## 🌐 Contact
+
+<p align="center">
+  ✉️ <a href="mailto:kextoxtkextoxt@gmail.com">kextoxtkextoxt@gmail.com</a>
+  &nbsp;•&nbsp;
+  💬 <a href="https://discord.gg/vM6gQbJFP">Discord (my6k)</a>
+</p>
