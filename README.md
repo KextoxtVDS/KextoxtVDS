@@ -78,23 +78,18 @@
 ---
 
 ## 📊 GitHub Activity
-
+ 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kextoxt-byberus&show_icons=true&count_private=true&rank_icon=github&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333" alt="Kextoxt Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=kextoxt-byberus&show_icons=true&count_private=true&rank_icon=github&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333" alt="Kextoxt Stats" />
 </div>
-
 <br>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kextoxt-byberus&layout=compact&langs_count=10&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333" alt="Top languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kextoxt-byberus&layout=compact&langs_count=10&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333" alt="Top languages" />
 </div>
-
 <br>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kextoxt-byberus&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&border=333333" alt="Streak Stats" />
 </div>
-
 ---
 
 ## 🌐 Contact
