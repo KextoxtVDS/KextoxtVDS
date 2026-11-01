@@ -20,7 +20,7 @@
 
 ---
 
-## 🧠 Qui suis-je
+## Qui suis-je
 
 <p align="center">
   Fondateur de <strong>6 serveurs FiveM</strong> — FusionV1, FusionV2, FusionV3, Nexium, FantaRevo & Zyphor
@@ -30,10 +30,10 @@
   Développeur principal et co-fondateur de <strong>Fusion V3</strong>, aux côtés de <strong>Zertox</strong> et <strong>Adil</strong>.
 </p>
 
-### 🧩 Mon framework : ELI
+### Mon framework : ELI
 
 <p align="center">
-  Auteur d'<strong>ELI</strong> — mon framework RP maison, écrit de zéro, qui tourne en production sur Fusion V3.
+  Auteur d'<strong>ELI</strong>, mon framework RP maison, écrit de zéro, qui tourne en production sur Fusion V3.
 </p>
 
 <p align="center">
@@ -44,14 +44,14 @@
   Je n'en publie pas l'architecture ici. Ceux qui veulent le voir en action viennent sur <strong>Fusion</strong>.
 </p>
 
-### 🎨 3D
+### 3D
 
 <p align="center">
   Je crée mes propres assets FiveM de A à Z : props, textures, animations, effets et sons custom —
   pipeline complet <strong>Blender → .ydr / .ytyp / .ycd</strong> intégré directement dans mes scripts.
 </p>
 
-### 🔍 Reverse Engineering
+### Reverse Engineering
 
 <p align="center">
   Je bosse sur <strong>REA</strong>, en partenariat avec <strong>ZyIA</strong> — mes fournisseurs d'IA.
@@ -62,12 +62,12 @@
 </p>
 
 <p align="center">
-  Quand je ne code pas, tu me trouves sur Counter-Strike 2. 🎮
+  Quand je ne code pas, tu me trouves sur Counter-Strike 2. 
 </p>
 
-## 🛠️ Compétences Techniques
+## Compétences Techniques
 
-<h4 align="center">🎨 Front-End</h4>
+<h4 align="center">Front-End</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -77,7 +77,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=flat&logo=bootstrap&logoColor=white">
 </p>
 
-<h4 align="center">⚙️ Back-End & Game Dev</h4>
+<h4 align="center">Back-End & Game Dev</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white">
   <img src="https://img.shields.io/badge/FiveM-0b0b0b?style=flat&logoColor=white">
@@ -87,7 +87,7 @@
   <img src="https://img.shields.io/badge/Discord.js-7289DA?style=flat&logo=discord&logoColor=white">
 </p>
 
-<h4 align="center">🗄️ Données, Infra & 3D</h4>
+<h4 align="center">Données, Infra & 3D</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
@@ -99,7 +99,7 @@
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=KextoxtVDS&show_icons=true&count_private=true&rank_icon=github&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333" alt="Kextoxt Stats" />
@@ -119,7 +119,7 @@
 
 ---
 
-## 🌐 Contact
+## Contact
 
 <p align="center">
   ✉️ <a href="mailto:kextoxtkextoxt@gmail.com">kextoxtkextoxt@gmail.com</a>
