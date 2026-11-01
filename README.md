@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Kextoxt</h1>
 
 <p align="center">
-  <strong>Développeur Full-Stack • Web • Open-Source</strong>
+  <strong>Développeur FiveM • Frameworks RP maison • 3D • Reverse Engineering</strong>
 </p>
 
 <p align="center">
@@ -18,30 +18,51 @@
   <img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white">
 </p>
 
-<p align="center">
-  <a href="https://wakatime.com/@your-wakatime-id">
-    <img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="WakaTime" />
-  </a>
-</p>
-
 ---
 
-## 🧠 Who Am I
+## 🧠 Qui suis-je
 
 <p align="center">
-  Founder of <strong>6 FiveM servers</strong> — FusionV1, FusionV2, FusionV3, Nexium, FantaRevo & Zyphor 
+  Fondateur de <strong>6 serveurs FiveM</strong> — FusionV1, FusionV2, FusionV3, Nexium, FantaRevo & Zyphor
 </p>
 
 <p align="center">
-  Principal developer and co-founder of <strong>Fusion V3</strong>, alongside Zertox and Adil.
+  Développeur principal et co-fondateur de <strong>Fusion V3</strong>, aux côtés de <strong>Zertox</strong> et <strong>Adil</strong>.
+</p>
+
+### 🧩 Mon framework : ELI
+
+<p align="center">
+  Auteur d'<strong>ELI</strong> — mon framework RP maison, écrit de zéro, qui tourne en production sur Fusion V3.
 </p>
 
 <p align="center">
-  I mainly work with <code>ESX/AVA/QB-Core</code> and the <code>ox</code> ecosystem — NUI menus, RageUI style Flashback, HUDs, banking & dispatch systems.
+  Un seul core qui gère tout le serveur : système joueur complet, inventaire, HUD, menus NUI, banking, dispatch, jobs, notifications — le tout léger, propre et sans dépendance à un framework public.
 </p>
 
 <p align="center">
-  When I'm not coding, you'll find me on Counter-Strike 2. 🎮
+  Je n'en publie pas l'architecture ici. Ceux qui veulent le voir en action viennent sur <strong>Fusion</strong>.
+</p>
+
+### 🎨 3D
+
+<p align="center">
+  Je crée mes propres assets FiveM de A à Z : props, textures, animations, effets et sons custom —
+  pipeline complet <strong>Blender → .ydr / .ytyp / .ycd</strong> intégré directement dans mes scripts.
+</p>
+
+### 🔍 Reverse Engineering
+
+<p align="center">
+  Je bosse sur <strong>REA</strong>, en partenariat avec <strong>ZyIA</strong> — mes fournisseurs d'IA.
+</p>
+
+<p align="center">
+  Direction : <strong>Myvo</strong>.
+</p>
+
+<p align="center">
+  Quand je ne code pas, tu me trouves sur Counter-Strike 2. 🎮
 </p>
 
 ## 🛠️ Compétences Techniques
@@ -56,21 +77,24 @@
   <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=flat&logo=bootstrap&logoColor=white">
 </p>
 
-<h4 align="center">⚙️ Back-End</h4>
+<h4 align="center">⚙️ Back-End & Game Dev</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white">
+  <img src="https://img.shields.io/badge/FiveM-0b0b0b?style=flat&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-6DA55E?style=flat&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Discord.js-7289DA?style=flat&logo=discord&logoColor=white">
 </p>
 
-<h4 align="center">🗄️ Données & Infra</h4>
+<h4 align="center">🗄️ Données, Infra & 3D</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white">
   <img src="https://img.shields.io/badge/OVH-123F6D?style=flat&logo=ovh&logoColor=white">
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white">
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-30363D?style=flat&logoColor=white">
 </p>
 
 ---
