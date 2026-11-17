@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  Développeur principal et co-fondateur de <strong>Fusion V3</strong>, aux côtés de <strong>Zertox</strong> et <strong>Adil</strong>.
+  Développeur principal et fondateur de <strong>Fusion V3</strong>, aux côtés de <strong>Zertox</strong> et <strong>Adil</strong>.
 </p>
 
 ### 🧩 Mon framework : ELI
